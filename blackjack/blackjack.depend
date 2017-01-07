@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1452755843 source:c:\users\vladut\desktop\blackjack\blackjack\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<Windows.h>
+	<string.h>
+	<conio.h>
+
+1452755843 source:d:\info\blackjack\blackjack\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<Windows.h>
+	<string.h>
+	<conio.h>
+
